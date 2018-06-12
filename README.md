@@ -4,10 +4,9 @@
 
 ## 使用步骤
 
-1. 修改`sonar-scanner.properties`中的`sonar.host.url`为你的docker宿主机 **IP:端口**
-2. 安装docker-compose（安装教程请自行搜索）
-3. 执行`docker-compose up`启动
-4. 访问 **步骤1.** 配置的 IP:端口 进入SonarQube web管理平台
+1. 安装docker-compose（安装教程请自行搜索）
+2. 执行`docker-compose up`启动
+3. 访问 **步骤1.** 配置的 IP:端口 进入SonarQube web管理平台
 
 ## 作者
 
