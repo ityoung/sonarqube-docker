@@ -6,7 +6,6 @@
 
 1. 安装docker-compose（安装教程请自行搜索）
 2. 执行`docker-compose up`启动
-3. 访问 **步骤1.** 配置的 IP:端口 进入SonarQube web管理平台
 
 ## 作者
 
